@@ -2,7 +2,7 @@
 
 This repository makes the C-library of [Curve25519](https://en.wikipedia.org/wiki/Curve25519) functions available in Swift through the [Swift Package Manager](https://swift.org/package-manager/) and [Cocoapods](https://cocoapods.org/).
 
-## Usage
+## Installation
 
 The library can be included through either SwiftPM or CocoaPods.
 
@@ -20,6 +20,14 @@ Specify in your Podfile:
 
 ````ruby
 pod 'CCurve25519', git: => 'https://github.com/christophhagen/CCurve25519.git'
+````
+
+## Usage
+
+In your project, simply:
+
+````swift
+import CCurve25519
 ````
 
 ## Attribution
