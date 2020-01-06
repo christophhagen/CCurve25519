@@ -19,7 +19,7 @@ Specify the dependency in your `Package.swift` file:
 Specify in your Podfile:
 
 ````ruby
-pod 'CCurve25519', git: => 'https://github.com/christophhagen/CCurve25519.git'
+pod 'CCurve25519', :git => 'https://github.com/christophhagen/CCurve25519.git'
 ````
 
 ## Usage
