@@ -11,7 +11,7 @@ The library can be included through either SwiftPM or CocoaPods.
 Specify the dependency in your `Package.swift` file:
 
 ````swift
-.package(url: "https://github.com/christophhagen/CCurve25519.git", .upToNextMinor(from: "1.0"))
+.package(url: "https://github.com/christophhagen/CCurve25519.git", from: "1.0.0")
 ````
 
 ### Cocoapods
