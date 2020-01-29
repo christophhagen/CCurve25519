@@ -1,0 +1,5 @@
+module CCurve25519 {
+   header "Sources/include/CCurve25519.h"
+   link "CCurve25519"
+   export *
+}
