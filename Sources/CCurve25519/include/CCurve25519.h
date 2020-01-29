@@ -6,13 +6,13 @@
 //  Copyright © 2018 User. All rights reserved.
 //
 
-@import Foundation;
+//@import Foundation;
 
 //! Project version number for Curve25519.
-FOUNDATION_EXPORT double Curve25519VersionNumber;
+//FOUNDATION_EXPORT double Curve25519VersionNumber;
 
 //! Project version string for Curve25519.
-FOUNDATION_EXPORT const unsigned char Curve25519VersionString[];
+//FOUNDATION_EXPORT const unsigned char Curve25519VersionString[];
 
 #import "curve25519-donna.h"
 #import "curve_sigs.h"
